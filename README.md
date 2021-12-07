@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Bjørn-Tore / Nozemi</h1>
+<div align="center">
+  <a href="https://nozemi.io/" target="_blank">Website</a> | <a href="https://linkedin.com/" target="_blank">LinkedIn</a>
+</div>
+<hr>
+
+I'm Bjørn-Tore, but go by the nickname Nozemi on the interwebs. When I want to have fun, I convert energy into code. I've mostly done websites (fullstack), but also messed around with other stuff. In general above average interested in tech and IT related activities, whether it be sysops, devops, backend, frontend or other IT consultant related tasks.
+
+
 
 <!--
 **Nozemi/Nozemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
