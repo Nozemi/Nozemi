@@ -1,6 +1,6 @@
 <h1 align="center">Bjørn-Tore / Nozemi</h1>
 <div align="center">
-  <a href="https://nozemi.io/" target="_blank">Website</a> | <a href="https://www.linkedin.com/in/bj%C3%B8rn-tore-mediaa-7b0b66142/" target="_blank">LinkedIn</a>
+  <a href="https://nozemi.io/" target="_blank">Website</a> | <a href="https://www.linkedin.com/in/bj%C3%B8rn-tore-mediaa-7b0b66142/" target="_blank">LinkedIn</a> | <a href="mailto:gh@nozemi.io">gh@nozemi.io</a>
 </div>
 <hr>
 
