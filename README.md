@@ -1,12 +1,10 @@
 <h1 align="center">Bjørn-Tore / Nozemi</h1>
 <div align="center">
-  <a href="https://nozemi.io/" target="_blank">Website</a> | <a href="https://www.linkedin.com/in/bj%C3%B8rn-tore-mediaa-7b0b66142/" target="_blank">LinkedIn</a>
+  <a href="https://nozemi.io/" target="_blank">Website <small><i>(inactive)</i></small></a> | <a href="https://www.linkedin.com/in/bj%C3%B8rn-tore-mediaa-7b0b66142/" target="_blank">LinkedIn</a>
 </div>
 <hr>
 
 I'm Bjørn-Tore, but go by the nickname Nozemi on the interwebs. When I want to have fun, I convert energy into code. I've mostly done websites (fullstack), but also messed around with other stuff. In general above average interested in tech and IT related activities, whether it be sysops, devops, backend, frontend or other IT consultant related tasks.
-
-**Contact me at**: <a href="mailto:gh@nozemi.io">gh@nozemi.io</a>
 
 <hr>
 
